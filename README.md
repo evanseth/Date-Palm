@@ -15,4 +15,5 @@ label="Columns at the Skeikh Zayed Mosque"
 license= "CC 3.0">
 <param ve-image url= "https://images.metmuseum.org/CRDImages/eg/original/10.175.137_EGDP011910.jpg?_gl=1*14sd4ip*_ga*MjU0MTYwMDAyLjE2ODc5Mjc0Nzc.*_ga_Y0W8DGNBTB*MTY5MDEzOTQzMi4xMC4wLjE2OTAxMzk0MzIuMC4wLjA."
 label="Column from the pyramid of Sahure"
-license= "Public Domain">
+license= "Public Domain"
+region= "-444,1,2222,1537">
