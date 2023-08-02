@@ -27,8 +27,8 @@ The date palm was first cultivated in oases, groundwater-fed areas of settlement
 <param ve-image= "https://github.com/evanseth/Date-Palm/blob/57932f51179e32ccf8feb25c59cef8782000009e/OASIS.png"
 label="Scheme of the structure of a traditional oasis"
 attribution= "Dr. Antonio Santoro, DAGRI, University of Florence"
-license= "Creative Commons Attribution 4.0 International License"
-[^ref2]>
+license= "Creative Commons Attribution 4.0 International License">
+[^ref2]
 
 ### References
 
