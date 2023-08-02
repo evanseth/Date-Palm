@@ -34,7 +34,7 @@ license= "Creative Commons Attribution 4.0 International License">
 The date palm’s migration wasn’t limited to the eastern hemisphere. Today, it’s found throughout California’s Coachella valley. The first date palms in California came from Algeria, through the USDA’s Office of Seed and Plant Introduction. Established in 1898 to import new crop varieties into the hands of US farmers, this office sent agricultural explorers in search of new crops all around the world. Primary sources from these bioprospectors suggest that, rather than solely following scientific inclinations in their quest for new crops, agricultural explorers were drawn to the exotic. Take the following passage from the autobiography of David Fairchild, first head of The Office of Seed and Plant Introduction and first explorer to go after the date palm: 
 
 _It seemed unbelievable that I was sailing toward Bagdad, the city of enchantment. Would I see Ali Baba and the Forty Thieves, the Sultan’s eunuchs, and beautiful, veiled ladies? It would be the voyage of adventure, for I was bound for the greatest date gardens in the world. But on this journey I was conscious of more than plants. Among the children of my generation, The Arabian Nights’ Entertainments held a place second only to Robinson Crusoe. The stories were read to us before the open fire on winter evenings, and Bagdad seemed a dream place somewhere in the dim never-never land near Crusoe’s tropical island._
-
+<param ve-entity eid="Q7079307" title="Office of Seed and Plant Introduction">
 
 ### References
 
