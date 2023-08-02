@@ -23,4 +23,8 @@ region= "-444,1,2222,1537">
 Insert paragraph here
 
 ### Date Palm Oases
-text
+The date palm was first cultivated in oases, groundwater-fed areas of settlement and agriculture within arid environments. In Northern Africa and the Arabian peninsula, oases served as both rest stops along desert journeys and as sites of agroforestry. As seen in the figure, traditional oases feature a multi-tiered system of plant cultivation, in which date palms form a canopy that shields smaller fruit trees, like apricots, figs, and olives, from direct sunlight. These smaller trees in turn shield the oasis floor, where vegetables are grown and animals are raised. The date palms, through their wind reduction, increased shade, and evapotranspiration, help form a microclimate conducive to prolific plant cultivation in an extreme environment. [^ref1]
+
+### References
+
+[^ref1]:
