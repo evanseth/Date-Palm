@@ -19,7 +19,7 @@ attribution= "The Metropolitan Museum of Art, New York (Rogers Fund, 1910)"
 region= "-444,1,2222,1537">
 
 
-### Paragraph 
+### The Roots of the Date Palm 
 Insert paragraph here
 
 ### Date Palm Oases
