@@ -1,7 +1,7 @@
 <a href="https://www.juncture-digital.org"><img src="https://juncture-digital.github.io/juncture/static/images/ve-button.png"></a>
 
 <param ve-config 
-       title="The Date Palm: A Glorified Wikipedia Entry"
+       title="The Date Palm: A Mirage's Shifting Meaning"
        author="ethan evans, Siya Kakumanu, Clio Rom"
        layout="vertical"
        banner= "https://upload.wikimedia.org/wikipedia/commons/d/de/Houghton_TypDr_515.S766.50q_%2814%29_-_camping_in_Elim.jpg">
