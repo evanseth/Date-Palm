@@ -24,7 +24,7 @@ Insert paragraph here
 
 ### Date Palm Oases
 The date palm was first cultivated in oases, groundwater-fed areas of settlement and agriculture within arid environments. In Northern Africa and the Arabian peninsula, oases served as both rest stops along desert journeys and as sites of agroforestry. As seen in the figure, traditional oases feature a multi-tiered system of plant cultivation, in which date palms form a canopy that shields smaller fruit trees, like apricots, figs, and olives, from direct sunlight. These smaller trees in turn shield the oasis floor, where vegetables are grown and animals are raised. The date palms, through their wind reduction, increased shade, and evapotranspiration, help form a microclimate conducive to prolific plant cultivation in an extreme environment. [^ref1]
-<param ve-image= "OASIS.jpg"
+<param ve-image url= "OASIS.jpg"
 label="Scheme of the structure of a traditional oasis"
 attribution= "Dr. Antonio Santoro, DAGRI, University of Florence"
 license= "Creative Commons Attribution 4.0 International License">
@@ -35,6 +35,9 @@ The date palm’s migration wasn’t limited to the eastern hemisphere. Today, i
 <param ve-entity eid="Q7079307" title="Office of Seed and Plant Introduction">
 
 _It seemed unbelievable that I was sailing toward Bagdad, the city of enchantment. Would I see Ali Baba and the Forty Thieves, the Sultan’s eunuchs, and beautiful, veiled ladies? It would be the voyage of adventure, for I was bound for the greatest date gardens in the world. But on this journey I was conscious of more than plants. Among the children of my generation, The Arabian Nights’ Entertainments held a place second only to Robinson Crusoe. The stories were read to us before the open fire on winter evenings, and Bagdad seemed a dream place somewhere in the dim never-never land near Crusoe’s tropical island._ *FN Here*
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/7e/David_Fairchild.jpg"
+label="David Fairchild, photographed 1889"
+attribution="Special Collections, USDA National Agricultural Library. Beverly Thomas Galloway Papers">
 
 
 ### References
