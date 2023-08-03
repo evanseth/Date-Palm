@@ -55,6 +55,9 @@ label="Pamphlet from Mecca Promoting Committee, Mecca CA"
 attribution="Library of Congress"
 license="Public Domain"
 region="-240,1,1204,987">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/c/ca/Magic_Carpet_Stage_at_Riverside_County_Fair_and_National_Date_Festival_%282012%29.jpg"
+label="Stage at Riverside, CA County Fair and National Date Festival (2012)"
+attribution="CC SA 3.0">
 
 ### References
 
