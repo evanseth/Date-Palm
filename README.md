@@ -44,7 +44,12 @@ label="Date palm grove on the banks of the Tigris (outside Baghdad), 1932— rou
 attribution="Library of Congress, Matson Collection"
 license="Public Domain">
 
-
+Fairchild’s fascination with Arabia was not abnormal; the start of the 20th century in the United States marked a period of intense cultural interest in the Middle East. Fueled by films like _The Sheik_ and _The Queen of Sheba_ (both 1921), as well as the growing investment of American oil companies in places like Iran, Iraq, and Saudi Arabia, the image of the Arabic world was, for many Americans, the site of exotic fascination and erotic pleasure. The Coachella Valley, given its climatic similarities to the Arabian Peninsula, was an appropriate site not only for date cultivation, but for cultivating a frenzy for “Arabia.” Early date growers in the Coachella Valley were quick to capitalize on this fascination, opening date gardens that borrowed from Islamic and ancient Egyptian architectural styles, establishing public festivities for the date, and renaming towns to sound Middle Eastern.
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/dd/The_Queen_of_Sheba_%281921%29_-_3.jpg"
+label="_The Queen of Sheba_ poster, 1921"
+attribution="James Abbe" 
+license="Public Domain"
+param ve-image="
 
 ### References
 
