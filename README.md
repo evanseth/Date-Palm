@@ -4,7 +4,7 @@
        title="The Date Palm: A Mirage's Shifting Meaning"
        author="ethan evans, Siya Kakumanu, Clio Rom"
        layout="vertical"
-       banner= "https://upload.wikimedia.org/wikipedia/commons/d/de/Houghton_TypDr_515.S766.50q_%2814%29_-_camping_in_Elim.jpg">
+       banner= "https://upload.wikimedia.org/wikipedia/commons/9/98/Phoenix_Dactylifera_Date_Palm_Fields_South_Coast_Wholesale.jpg">
 
 ### Introduction
 Parts of the Sheikh Zayed Mosque, completed in Abu Dhabi in 2007, look a lot like the pyramid of Sahure, completed in lower Egypt in the 25th century BC. While they’re separated by 45 centuries, thousands of miles, and differing cosmologies, date palms feature as prominently in ancient Egyptian and Mesopotamian imagery as they do in peninsular Arabic cities like Dubai and Abu Dhabi. The historical longevity of the date palm (Phoenix dactylifera) as a symbol is a testament not only to the species’ continued horticultural use, but to its adaptability as a vessel for cultural-identity making—  since the earliest societies in Mesopotamia, the date palm has appeared in literary, pictorial, political, and religious documentation. Like its namesake the phoenix, the date palm has, throughout recorded history, made and remade itself— sometimes a symbol for life and fertility, other times a symbol for victory, wealth, and prosperity. While the recorded uses of the Phoenix dactylifera are many, ranging from the date’s value as a durable and nutrient rich foodstuff to the palm frond’s uses in construction and Christian ritual to the potential fertility enhancing components of date palm pollen, the date palm itself is more than a useful plant; it is a collection of symbols that traverse human history. 
