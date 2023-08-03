@@ -49,7 +49,10 @@ Fairchild’s fascination with Arabia was not abnormal; the start of the 20th ce
 label="_The Queen of Sheba_ poster, 1921"
 attribution="James Abbe" 
 license="Public Domain"
-param ve-image="
+param ve-image url="Screenshot 2023-08-02 at 11.14.40 PM.png"
+label="Pamphlet from Mecca Promoting Committee, Mecca CA"
+attribution="Library of Congress"
+license="Public Domain">
 
 ### References
 
