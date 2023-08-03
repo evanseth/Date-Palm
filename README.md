@@ -67,6 +67,16 @@ The date palm’s most prominent recent depiction is not an image, marketing sch
 label="Palm Jumeirah"
 license="CC SA 3.0">
 
+The construction of Palm Jumeirah and the decline of Dubai’s other two palm islands— both of which stand mostly abandoned—  tell us as much about the shifting economies of the Arabian Peninsula as they do about the date palm. The palm islands were devised as a method of increasing Dubai’s shoreline, as part of a larger goal of boosting tourism in order to diversify the United Arab Emirates’ economy. That the date palm was chosen as the symbol of these efforts—  not only in the palm islands but in other luxury developments like the Sheikh Zayed Mosque, pictured earlier— is not coincidental; it points to the longevity of the date palm as a meaning-making symbol. In the context of the post-OPEC Arabian Peninsula, this symbol is inextricably tied to material wealth; date palms abound in luxury items, and luxury date vendors appear in every shopping mall.
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/6b/Tina_Memic_.jpg"
+label="Salesperson at Bateel International, a gourmet date franchise"
+license="CC SA 4.0">
+
+In the UAE, the date palm’s use as a marker of luxury is not without its irony. The rapid development of fossil fuel extraction in the Arabian Peninsula in the 20th century took both land and water away from date palm oases. Since then, intensive, western-style agriculture combined with droughts, likely worsened by fossil-fuel driven climatic changes, have reduced the freshwater capacity of the gulf countries by nearly 75%, FOOTNOTE HERE imperiling the very desert oases that inspired the cultural works of both the ancient and the modern Islamic world. The same practices, then, that generated copious wealth that made Palm Jumeirah and the Sheikh Zayed Mosque are the practices that pose an existential threat to traditional forms of date palm cultivation in the Middle East. 
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/3/37/Date_palm_tree_irrigation.jpg"
+label="Al Ain Oasis in Abu Dhabi"
+license="CC SA 4.0">
+
 ### References
 
 [^ref1]:
