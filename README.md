@@ -57,7 +57,15 @@ license="Public Domain"
 region="-240,1,1204,987">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/c/ca/Magic_Carpet_Stage_at_Riverside_County_Fair_and_National_Date_Festival_%282012%29.jpg"
 label="Stage at Riverside, CA County Fair and National Date Festival (2012)"
-attribution="CC SA 3.0">
+license="CC SA 3.0">
+
+As shown in the map, the Coachella Valley has maintained some of its Middle Eastern panache. It still features a yearly date festival, and its local high school sports team still goes by the “Mighty Arabs.” FOOTNOTE HERE What’s changed since Fairchild’s era is that the date palm, while it is still grown in California (between 2000 and 2020, date palm acreage increased 38% in the Coachella Valley), has come to represent something different. While the political and economic influence of the United States in the Middle East has continued to grow, its domestic attitudes have shifted— the Iranian hostage crisis and, later, September 11th, turned American opinions of the Middle East, particularly the Muslim Middle East, from a romantic to a threatening imaginary. The date itself, rather than being the fruit of an exotic new world, has found itself on the shelves of health food stores or marketed as a luxury good. FOOTNOTE HERE also MAP goes with this
+
+### The Palm Makes an Island
+The date palm’s most prominent recent depiction is not an image, marketing scheme, or text; it’s an island (or, rather, three islands). In 2001, a real estate conglomerate dredged three billion cubic feet of sand from the seafloor off the coast of Dubai and used it to form an island in the shape of a date palm with 17 fronds. FOOTNOTE HERE Two decades and two unfinished palm islands later, the original island, Palm Jumeirah, is now home to over 18000 people. The date palm’s use here, while differing in its grandiose scale, is not dissimilar to that in the Coachella valley; in both cases, the plant is used as a marker of luxury and cultural authenticity.
+<param ve image url="https://upload.wikimedia.org/wikipedia/commons/8/8e/Dubai_SPOT_1255_%28cropped%29.jpg"
+label="Palm Jumeirah"
+license="CC SA 3.0">
 
 ### References
 
