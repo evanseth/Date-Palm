@@ -53,7 +53,8 @@ region="-111,8,555,455">
 <param ve-image url="Screenshot 2023-08-02 at 11.14.40 PM.png"
 label="Pamphlet from Mecca Promoting Committee, Mecca CA"
 attribution="Library of Congress"
-license="Public Domain">
+license="Public Domain"
+region="-240,1,1204,987">
 
 ### References
 
