@@ -63,7 +63,7 @@ As shown in the map, the Coachella Valley has maintained some of its Middle East
 
 ### The Palm Makes an Island
 The date palm’s most prominent recent depiction is not an image, marketing scheme, or text; it’s an island (or, rather, three islands). In 2001, a real estate conglomerate dredged three billion cubic feet of sand from the seafloor off the coast of Dubai and used it to form an island in the shape of a date palm with 17 fronds. FOOTNOTE HERE Two decades and two unfinished palm islands later, the original island, Palm Jumeirah, is now home to over 18000 people. The date palm’s use here, while differing in its grandiose scale, is not dissimilar to that in the Coachella valley; in both cases, the plant is used as a marker of luxury and cultural authenticity.
-<param ve image url="https://upload.wikimedia.org/wikipedia/commons/8/8e/Dubai_SPOT_1255_%28cropped%29.jpg"
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/8e/Dubai_SPOT_1255_%28cropped%29.jpg"
 label="Palm Jumeirah"
 license="CC SA 3.0">
 
