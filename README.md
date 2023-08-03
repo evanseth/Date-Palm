@@ -39,7 +39,10 @@ label="David Fairchild, photographed 1889"
 attribution="Special Collections, USDA National Agricultural Library. Beverly Thomas Galloway Papers">
 
 _It seemed unbelievable that I was sailing toward Bagdad, the city of enchantment. Would I see Ali Baba and the Forty Thieves, the Sultan’s eunuchs, and beautiful, veiled ladies? It would be the voyage of adventure, for I was bound for the greatest date gardens in the world. But on this journey I was conscious of more than plants. Among the children of my generation, The Arabian Nights’ Entertainments held a place second only to Robinson Crusoe. The stories were read to us before the open fire on winter evenings, and Bagdad seemed a dream place somewhere in the dim never-never land near Crusoe’s tropical island._ *FN Here*
-<param ve-image url="https://tile.loc.gov/storage-services/service/pnp/matpc/16000/16028v.jpg">
+<param ve-image url="https://tile.loc.gov/storage-services/service/pnp/matpc/16000/16028v.jpg"
+label="Date palm grove on the banks of the Tigris (outside Baghdad), 1932— roughly twenty years after David Fairchild's visit"
+attribution="Library of Congress, Matson Collection"
+license="Public Domain">
 
 
 
