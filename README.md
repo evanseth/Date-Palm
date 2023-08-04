@@ -64,7 +64,7 @@ As shown in the map, the Coachella Valley has maintained some of its Middle East
 <param ve-map
 center="33.748279, -116.355225"
 zoom="10"
-title="title"
+title="The Middle East in the middle of California"
 prefer-geojson>
 <param ve-map-layer geojson url="Palm Springs.json"
 show-labels
