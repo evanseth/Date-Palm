@@ -32,7 +32,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Mecca": ""
+        "label": "Mecca"
       },
       "geometry": {
         "coordinates": [
