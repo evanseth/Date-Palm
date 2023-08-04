@@ -102,7 +102,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Palm Springs": ""
+        "label": "Palm Springs"
       },
       "geometry": {
         "coordinates": [
