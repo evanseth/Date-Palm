@@ -60,7 +60,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Biskara Palms": ""
+        "label": "Biskara Palms"
       },
       "geometry": {
         "coordinates": [
@@ -74,7 +74,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Pushawalla Palms": ""
+        "label": "Pushawalla Palms"
       },
       "geometry": {
         "coordinates": [
@@ -88,7 +88,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Thousand Palms": ""
+        "label": "Thousand Palms"
       },
       "geometry": {
         "coordinates": [
