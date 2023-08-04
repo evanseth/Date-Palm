@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "label": "Mecca"
+        "label": "Palm Desert"
       },
       "geometry": {
         "coordinates": [
@@ -46,7 +46,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Thermal": ""
+        "Label": "Thermal"
       },
       "geometry": {
         "coordinates": [
