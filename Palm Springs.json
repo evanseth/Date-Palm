@@ -4,14 +4,6 @@
     {
       "type": "Feature",
       "properties": {
-        "Oasis": "Oasis",
-        "Palm Desert": "Palm Desert",
-        "Mecca": "Mecca",
-        "Thermal": "Thermal",
-        "Biskara Palms": "Biskara Palms",
-        "Pushawalla Palms": "Pushawalla Palms",
-        "Thousand Palms": "Thousand Palms",
-        "Palm Springs": "Palm Springs"
       },
       "geometry": {
         "coordinates": [
