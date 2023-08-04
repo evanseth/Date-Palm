@@ -63,7 +63,7 @@ license="CC SA 3.0">
 As shown in the map, the Coachella Valley has maintained some of its Middle Eastern panache. It still features a yearly date festival, and its local high school sports team still goes by the “Mighty Arabs.” FOOTNOTE HERE What’s changed since Fairchild’s era is that the date palm, while it is still grown in California (between 2000 and 2020, date palm acreage increased 38% in the Coachella Valley), has come to represent something different. While the political and economic influence of the United States in the Middle East has continued to grow, its domestic attitudes have shifted— the Iranian hostage crisis and, later, September 11th, turned American opinions of the Middle East, particularly the Muslim Middle East, from a romantic to a threatening imaginary. The date itself, rather than being the fruit of an exotic new world, has found itself on the shelves of health food stores or marketed as a luxury good. FOOTNOTE HERE also MAP goes with this
 <param ve-map
 center="33.748279, -116.355225"
-zoom="9"
+zoom="10"
 title="title"
 show-labels>
 
