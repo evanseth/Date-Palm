@@ -68,7 +68,7 @@ title="title"
 show-labels>
 <param ve-map-layer geojson url="Palm Springs.json"
 show-labels
-stroke-width="0">
+stroke-width="1">
 
 ### The Palm Makes an Island
 The date palm’s most prominent recent depiction is not an image, marketing scheme, or text; it’s an island (or, rather, three islands). In 2001, a real estate conglomerate dredged three billion cubic feet of sand from the seafloor off the coast of Dubai and used it to form an island in the shape of a date palm with 17 fronds. FOOTNOTE HERE Two decades and two unfinished palm islands later, the original island, Palm Jumeirah, is now home to over 18000 people. The date palm’s use here, while differing in its grandiose scale, is not dissimilar to that in the Coachella valley; in both cases, the plant is used as a marker of luxury and cultural authenticity.
