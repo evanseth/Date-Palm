@@ -1,0 +1,117 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Oasis": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -116.09913602305673,
+          33.465600191922974
+        ],
+        "type": "Point"
+      },
+      "id": 0
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Palm Desert": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -116.38273757188107,
+          33.72879177513941
+        ],
+        "type": "Point"
+      },
+      "id": 1
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Mecca": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -116.07422866074862,
+          33.57077648220633
+        ],
+        "type": "Point"
+      },
+      "id": 2
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Thermal": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -116.1396726203044,
+          33.64050903155507
+        ],
+        "type": "Point"
+      },
+      "id": 3
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Biskara Palms": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -116.25304377173873,
+          33.79004195849343
+        ],
+        "type": "Point"
+      },
+      "id": 4
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Pushawalla Palms": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -116.28165531468304,
+          33.82420060367026
+        ],
+        "type": "Point"
+      },
+      "id": 5
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Thousand Palms": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -116.3935426370544,
+          33.82180842348832
+        ],
+        "type": "Point"
+      },
+      "id": 6
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Palm Springs": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -116.53978674457693,
+          33.82509420376667
+        ],
+        "type": "Point"
+      },
+      "id": 7
+    }
+  ]
+}
