@@ -46,7 +46,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Label": "Thermal"
+        "label": "Thermal"
       },
       "geometry": {
         "coordinates": [
