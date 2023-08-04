@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "label": "Mecca"
+        "label": "Oasis"
       },
       "geometry": {
         "coordinates": [
@@ -18,9 +18,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Palm Desert": "",
-        "Oasis": "",
-        "Biskara Palms": ""
+        "label":"Mecca"
       },
       "geometry": {
         "coordinates": [
