@@ -2,7 +2,7 @@
 
 <param ve-config 
        title="The Date Palm: A Mirage's Shifting Meaning"
-       author="ethan evans, Siya Kakumanu, Clio Rom"
+       author="ethan evans, Siya Kakumanu, Clio Grace Rom"
        layout="vertical"
        banner= "https://upload.wikimedia.org/wikipedia/commons/9/98/Phoenix_Dactylifera_Date_Palm_Fields_South_Coast_Wholesale.jpg"
        license= "CC SA 4.0">
