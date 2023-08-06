@@ -52,8 +52,16 @@ attribution= "Pergamonmuseum, Berlin"
 license= "Creative Commons Attribution 4.0 International License">
 
 
-###Upholding Foundations ( Visualization:1-AssyrianPanelSacredTreeCone-Metl)
-Just as the Phoenix dactylifera’s agricultural and economic power materializes government documentation and architecture, early Mesopotamian religions also adopted the palm and its fruits into their pantheons as Gods of fertility and life, most notably goddesses Ishtar and Astarte. Cults of devotion associated the palm with the Tree of Life and incorporated it into their god figures, the leaves jutting out at the shoulders, and later conventionalized to feathers.Visualization: 2-AssyrianCylinderSealofIshtar-Met] This tree and its life-bearing properties sustained a presence in the region’s spirituality even as civilizations rose and fell and their religions evolved, adapting new meanings with each new belief system.
+###Upholding Foundations
+Just as the Phoenix dactylifera’s agricultural and economic power materializes government documentation and architecture, early Mesopotamian religions also adopted the palm and its fruits into their pantheons as Gods of fertility and life, most notably goddesses Ishtar and Astarte. Cults of devotion associated the palm with the Tree of Life and incorporated it into their god figures, the leaves jutting out at the shoulders, and later conventionalized to feathers. This tree and its life-bearing properties sustained a presence in the region’s spirituality even as civilizations rose and fell and their religions evolved, adapting new meanings with each new belief system.
+<param ve-image url= "1-AssyrianPanelSacredTreeCone-Met.jpg"
+label="Segment of Ishtar Gate with Palms"
+attribution= "Pergamonmuseum, Berlin"
+license= "Creative Commons Attribution 4.0 International License">
+<param ve-image url= "2-AssyrianCylinderSealofIshtar-Met.jpg"
+label="Segment of Ishtar Gate with Palms"
+attribution= "Pergamonmuseum, Berlin"
+license= "Creative Commons Attribution 4.0 International License">
 
 The date palm first appears in the book of Genesis as the Tree of Life in the Garden of Eden, whose suggested location is around eastern Eridu, well within the region where the trees were cultivated. The tree subsequently appears in the Old Testament as Deborah’s shade in Judges, as building decorations in I Kings, II Chronicles, and I Maccabees, and throughout Moses’ exodus from Egypt to the Holy Land of Judea. In fact, the expression "the land of milk and honey," which appears twenty times in the Hebrew Bible to describe Israel, likely refers to the sugary "honey" produced by the dried date. Many early figures in the Abrahamic religions feasted upon this honey, most notably John the Baptist— a "voice of one crying in the wilderness" (John 1:23 KJV) of the Judaean Desert who fed on "locusts and wild honey" (Mark 1:6 KJV) before reaching and baptizing Jesus Christ. 
 
