@@ -37,14 +37,18 @@ From the beginnings of early Mesopotamian civilizations to powerful kingdoms and
 
 (Visualization: Tree of Life/cultivation tablet) A relationship between the date palm and human cultures quickly formed as the plant helped support the societies by providing fruit, seeds, leaves, fibers(hyperlink: https://artsandculture.google.com/asset/masad/hgFlcGtOeQltgw) , and wood. In return, by the third millennium BCE, mesopotamian inhabitants began cultivating and proliferating the date palm in their agriculture, materials, decoration, religion, and symbolism. The date was a reliable supply of food that could be stored and transported easilyPeople prized the date’s sweetness and the wine made from its inner syrup, while the stalk could be used for structural support, wood, and fiber, and leaves for roofing and weaving. Visualization: palm tree baskets & roofing]. The tree granted such life-sustaining provisions, early civilizations elevated and embedded its presence and image into their respective political, religious, and visual cultures.
 
-(Visualization: Hamarabi’s Code Cuneiform] In these early civilizations of the Near East, the date palm sustained communities, first through nutrition and material, then through agriculture and economics. Governments harnessed the economic value of date palms through oasis cultivation. Date palms grew in hubs of political power such as Uruk, Babylon, Assyria, and Nineveh and appear in a range of laws, religion, and aesthetics from these geographies. Paragraph sixty of Hammurabi’s code in 1728 BCE (“60. If any one give over a field to a gardener, for him to plant it as a garden, if he work at it, and care for it for four years, in the fifth year the owner and the gardener shall divide it, the owner taking his part in charge.”) refers to planting palms and suggests the relevancy of and practical application of its cultivation in early government documents.   Its presence in the built environments illustrates its ubiquity not only in the natural and agricultural landscape, but also in the collective consciousness and imagination throughout its native lands.Visualization: 5-EgyptianTombPainting-British] Egyptian kings had them painted into their homes and tombs. Two segments of the remnants of the Ishtar Gate are rows of palms.Visualization:3-AssyrianIshtarGate-Wikicommons.jpg]  
+In these early civilizations of the Near East, the date palm sustained communities, first through nutrition and material, then through agriculture and economics. Governments harnessed the economic value of date palms through oasis cultivation. Date palms grew in hubs of political power such as Uruk, Babylon, Assyria, and Nineveh and appear in a range of laws, religion, and aesthetics from these geographies. Paragraph sixty of Hammurabi’s code in 1728 BCE "If any one give over a field to a gardener, for him to plant it as a garden, if he work at it, and care for it for four years, in the fifth year the owner and the gardener shall divide it, the owner taking his part in charge" refers to planting palms and suggests the relevancy of and practical application of its cultivation in early government documents. Its presence in the built environments illustrates its ubiquity not only in the natural and agricultural landscape, but also in the collective consciousness and imagination throughout its native lands. Egyptian kings had them painted into their homes and tombs. Two segments of the remnants of the Ishtar Gate are rows of palms.  
 <param ve-image url= "7_Louvre_code_Hammurabi_face_rwk.jpg"
 label="Stele of Hammurabi"
 attribution= "Louvre Museum, Paris"
 license= "Creative Commons Attribution 4.0 International License">
+<param ve-image url= "5-EgyptianTombPainting-British.jpg"
+label="Fragment of a polychrome tomb-painting representing the pool in Nebamun's estate garden, 1350 BCE"
+attribution= "British Museum, London"
+license= "Creative Commons Attribution 4.0 International License">
 <param ve-image url= "3.2-Pergamonmuseum_Ishtartor_07-Wikicommons.jpg"
-label="Stele of Hammurabi"
-attribution= "Louvre Museum, Paris"
+label="Segment of Ishtar Gate with Palms"
+attribution= "Pergamonmuseum, Berlin"
 license= "Creative Commons Attribution 4.0 International License">
 
 
