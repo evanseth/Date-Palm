@@ -70,7 +70,7 @@ It is most iconic in the New Testament as Christ enters Jerusalem on an ass whil
 
 (Visualization: Al-Qazwini Image PRIMARY SOURCE VISUAL, CAT. 183 book)The date palm appears twenty-two times in the Quron and was celebrated for being found “only in islamic countries.” Mohammad considered it a “blessed tree,” their holy value having come from the same soil from which Adam was created, comparing the qualities of the tree to humans noting “it is tall and upright, it is female and male”. The prophet is known to have subsisted only on dates and water during periods of poverty. The architects and craftsmen of early mosques, synagogues, and churches incorporated the date palms and its meanings into the visual landscape of their respective spaces.Visualization: Mosque & Synagogue date palm] Because plants and trees were not considered idolatry, they could be included in the ornamentation of Muslum and Jewish spaces. As seen in the visualization, the date palm was rendered fairly realistically for its mosaic medium: the image communicates the texture of its scarred-bark, crown of its leaves, and volume of the trees’ fruit. Its presence in the sacred space communicates a sense of place, nature, and its symbols of fertility, prosperity, and fecundity, in line with Jewish and Muslim considerations of the plant.
 <param ve-image url= "10.Al-Qazwini-DatePalmManuscript-Smithsonian.jpg"
-label="Folio from Aja'ib al-makhluqat (Wonders of Creation) by al-Qazvini; recto: Coconut (Narjil), Lote Tree (Nabiq); verso: Date Palm (Nakhl)"
+label="Folio from Aja'ib al-makhluqat (Wonders of Creation) by al-Qazvini; verso: Date Palm (Nakhl)"
 attribution= "Smithsonian, Washington D.C"
 license= "Creative Commons Attribution 4.0 International License">
 
