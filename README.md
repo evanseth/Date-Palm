@@ -25,6 +25,7 @@ There are over 13 different species of Phoenix (palm) trees and 400+ variations 
 <param ve-entity eid="Q27685" title="Phoenix">
 <param ve-entity eid="Q16774413" title="Medjool">
 <param ve-entity eid="Q170526" title="Fertile Crescent">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/df/Phoenix_dactylifera_Daktylowiec_w%C5%82a%C5%9Bciwy_2023-02-24_07.jpg" label="Phoenix dactylifera cultivated in Palermo">
 
 However, the date palm’s unique morphology that distinguishes it from the rest of the Phoenix genus is a result of its highly successful rooting system in such an arid climate. Date palms grow via fibrous roots through the development of pneumatophores, a specialized root capable of growing up to five meters below ground and utilizing fiber cells around the cortex as a means of providing mechanical support to the roots and ensuring water retention. In addition, the date palm germinates via the remote-tubular method, in which “the primary leaf emerges then through an opening from the cotyledonary petiole. The tip of the cotyledonary petiole produces the root tip of the future seedling. This structure grows in the soil keeping the developing embryo and the young seedling protected from the heat and dryness at the soil surface while allowing the roots to reach deeper soils” [3].
 
