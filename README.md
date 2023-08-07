@@ -114,9 +114,13 @@ license= "Creative Commons Attribution 4.0 International License">
 <param ve-compare url="17-Sousse_mosaic_Victorywikicommons.jpg">
 
 The Tree of Life mosaic in the apse of the Basilica of San Clemente Rome exemplifies the Christian co-option and transformation of the date palm into its own specific meaning well into the twelfth century. Saint Clement, for whom this church was named, wrote of the phoenix bird as a symbol of rebirth and migration between Arabia and Egypt, evoking Christ as a phoenix in his first epistle. Saint Clement and the craftsmen of this apse’s mosaic strung together more than a millennia of the palm tree’s various meanings and names into one visual program: the phoenix bird, the tree as Phoenix, death, rebirth, geography, and prosperity.VISUALIZATION: Apse of San Clemente Zoom] There are no clusters of dates hanging from the palm leaves. Instead, Christ hangs on a crucifix resting on/emerging from the crown of the tree as if born from the nest of a phoenix. His death signifies an ultimate sacrifice, the defeat of evil, and the gift of life for his followers. Thus Christ is victorious like Nike and Victoria, reborn like a phoenix, and life-giving like the tree and its fruit. Along with white for purity, the frond of the palm became a symbol for martyrs in Early Christianity and ingrained itself into Western European visual convention.
-<param ve-image url= "17-Sousse_mosaic_Victorywikicommons.jpg"
-label="Sousse Mosaic of Victory, c 4-5th Century, Tunisia"
-attribution= "Ad Meskens, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons"
+<param ve-image url= "16-Large-Rom,_Basilika_San_Clemente,_Apsis_1.jpg"
+label="Crucifix of Christ above a palm tree, Apse of San Clemente, 12th century A.D., Rome"
+attribution= "Dnalor 01, via Wikimedia Commons"
+license= "Creative Commons Attribution 4.0 International License">
+<param ve-image url= "6-Detail-ApseSanClemente-WebArtGallery.jpg"
+label="detail of leaves in Crucifix of Christ above a palm tree, Apse of San Clemente, 12th century A.D., Rome"
+attribution= "Dnalor 01, via Wikimedia Commons"
 license= "Creative Commons Attribution 4.0 International License">
 
 (Visualization: Primary Source- Herbal of the Bible) As Christian iconography standardized in early Renaissance Europe, the date palm characterized Judean geography and martyrdom. Its image evoked biblical geographies of Egypt, Judea, Jericho, Jerusalem, and the Jordan Valley depending on accompanying figures and context. Morphologically, artists begin to exclude the bunches of date palms from their renderings, a possible explanation being artists who had seen date palms in Europe likely would not have seen their dates as they cannot produce fruit in Mediterranean climates. Iconographically, this exclusion of the date in the palm’s repeated representation suggests the tree has become a type/symbol whose meaning is more referential to objects around the tree than related to the tree itself.  
