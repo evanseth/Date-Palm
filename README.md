@@ -118,7 +118,7 @@ The Tree of Life mosaic in the apse of the Basilica of San Clemente Rome exempli
 label="Crucifix of Christ above a palm tree, Apse of San Clemente, 12th century A.D., Rome"
 attribution= "Dnalor 01, via Wikimedia Commons"
 license= "Creative Commons Attribution 4.0 International License">
-<param ve-image url= "6-Detail-ApseSanClemente-WebArtGallery.jpg"
+<param ve-image url= "16-Detail-ApseSanClemente-WebArtGallery.jpg"
 label="detail of leaves in Crucifix of Christ above a palm tree, Apse of San Clemente, 12th century A.D., Rome"
 attribution= "Dnalor 01, via Wikimedia Commons"
 license= "Creative Commons Attribution 4.0 International License">
