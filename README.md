@@ -242,5 +242,5 @@ While the pharmacological benefits of date palm pollen require further research 
 [^ref3]:Kirschner, Gwendolyn K., Ting Ting Xiao, and Ikram Blilou. 2021. "Rooting in the Desert: A Developmental Overview on Desert Plants" Genes 12, no. 5: 709. https://doi.org/10.3390/genes12050709
 [^ref4]:Santoro, A. Traditional oases in Northern Africa as multifunctional agroforestry systems: a systematic literature review of the provided Ecosystem Services and of the main vulnerabilities. Agroforest Syst 97, 81–96 (2023). https://doi.org/10.1007/s10457-022-00789-w
 [^ref5]:AA Jaradat, “Biodiversity of Date Palm” in Encyclopedia of Life Support Systems: Land Use, Land Cover and Soil Sciences (Oxford: Eolss Publishers, 2011.) https://www.eolss.net/sample-chapters/c10/E1-05A-66.pdf
-[^ref6] Begum, Tammana. “Date Palm: The Cornerstone of Civilisation in the Middle East and North Africa.” Natural History Museum, March 22, 2023. https://www.nhm.ac.uk/discover/date-palm-the-cornerstone-of-civilisation.html. 
-[^ref7]Popenoe, Paul. “The Date-Palm in Antiquity.” The Scientific Monthly 19, no. 3 (1924): 313–25. http://www.jstor.org/stable/7328.
+[^ref6]:Begum, Tammana. “Date Palm: The Cornerstone of Civilisation in the Middle East and North Africa.” Natural History Museum, March 22, 2023. https://www.nhm.ac.uk/discover/date-palm-the-cornerstone-of-civilisation.html. 
+[^ref7]:Popenoe, Paul. “The Date-Palm in Antiquity.” The Scientific Monthly 19, no. 3 (1924): 313–25. http://www.jstor.org/stable/7328.
