@@ -244,3 +244,5 @@ While the pharmacological benefits of date palm pollen require further research 
 [^ref5]:AA Jaradat, “Biodiversity of Date Palm” in Encyclopedia of Life Support Systems: Land Use, Land Cover and Soil Sciences (Oxford: Eolss Publishers, 2011.) https://www.eolss.net/sample-chapters/c10/E1-05A-66.pdf
 [^ref6]:Begum, Tammana. “Date Palm: The Cornerstone of Civilisation in the Middle East and North Africa.” Natural History Museum, March 22, 2023. https://www.nhm.ac.uk/discover/date-palm-the-cornerstone-of-civilisation.html. 
 [^ref7]:Popenoe, Paul. “The Date-Palm in Antiquity.” The Scientific Monthly 19, no. 3 (1924): 313–25. http://www.jstor.org/stable/7328.
+[^ref8]:Sané, Djibril, Mohamed Ould Kneyta, Diaga Diouf, and Diegane Diouf. “Growth and Development of Date Palm (Phœnix Dactylifera L.) Seedlings under Drought and Salinity Stresses.” AFRICAN JOURNAL OF BIOTECHNOLOGY 4, no. 9 (September 2005): 968–72. https://doi.org/https://www.researchgate.net/publication/235721557_Growth_and_development_of_date_palm_Phoenix_dactylifera_L_seedlings_under_drought_and_salinity_stresses.  
+[^ref9]:
