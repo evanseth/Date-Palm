@@ -81,8 +81,8 @@ Just as the Phoenix dactylifera’s agricultural and economic power materializes
 label="Assyrian Panel with a Sacred Tree Cone"
 attribution= "Metropolitan Museum of Art, New York"
 license= "Creative Commons Attribution 4.0 International License">
-<param ve-image url= "2-AssyrianCylinderSealofIshtar-Met.jpg"
-label="Assyrian Cylinder Seal of Ishtar with Winged Figures"
+<param ve-image url= "2.2-AssyrianCylinderSealofIshtar-British.jpg"
+label="Assyrian Cylinder Seal of Ishtar with Winged Figures and Date Palms"
 attribution= "Metropolitan Museum of Art, New York"
 license= "Creative Commons Attribution 4.0 International License">
 
