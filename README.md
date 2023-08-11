@@ -80,7 +80,8 @@ Just as the Phoenix dactylifera’s agricultural and economic power materializes
 <param ve-image url= "Assyrian-relief-panel-tall-fertilizing-met.jpg"
 label="Neo-Assyrian Panel with a Sacred Tree Cone, ca. 883–859 BCE"
 attribution= "Metropolitan Museum of Art, New York"
-license= "Creative Commons Attribution 4.0 International License">
+license= "Creative Commons Attribution 4.0 International License"
+ image-zoomto="229,196,1717,1350">
 <param ve-image url= "2.2-AssyrianCylinderSealofIshtar-British.jpg"
 label="Assyrian Cylinder Seal of Ishtar with Winged Figures and Date Palms"
 attribution= "Metropolitan Museum of Art, New York"
