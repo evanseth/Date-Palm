@@ -46,11 +46,11 @@ A relationship between the date palm and human cultures quickly formed as the pl
 <param ve-image url= "1.2-AssyrianArtificialDatePalmFertilization-Met.jpg"
 label="Assyrian Relief tablet of mystic figures holding cones to highly stylized date palms, considered the Sacred Tree. The scene likely represents the artificial fertilization practices of Neo-Assyrian date palm orchards. Farmers would remove the spathes of the male date palm and brush them against the females to pollinate their flowers. ca. 883–859 BCE"
 attribution= "The Metropolitan Museum of Art, New York"
-license= "Creative Commons Attribution 4.0 International License"
+license= "Creative Commons Attribution 4.0 International License">
 <param ve-image url= "Cylindrical Basket and Lid, New Kingdom, 1500 BC.jpg"
 label="Two baskets with their lids made out of woven palm leaves and reeds. From the New Kingdom of Egypt in the 18th Dynasty,  ca. 1550–1295 B.C."
 attribution= "The Metropolitan Museum of Art, New York"
-license= "Creative Commons Attribution 4.0 International License"
+license= "Creative Commons Attribution 4.0 International License">
 
 The date palm’s ease of cultivation as a multi-purpose crop is a testament to its evolutionary ability to have such fertile pollen despite the environmental hardships. Being drought tolerant as well as salinity tolerant [^ref8] were well-integrated for the purposes of economic and religious uses in the Middle East. Moreover, the date palm’s ability to not only grow successfully but to propagate itself just as successfully was what solidified its legacy in the Middle East and allowed it’s mythology to be rooted in scientific truth. Emphasizing the incomparable value of the date palm pollen, as it was capable of producing viable date palm trees that yielded enough dates to sustain the diets of Middle Eastern civilizations, Antoine François, comte de Fourcroy (1755-1809) wrote, 
 <param ve-plant-specimen jpid="10.5555/al.ap.specimen.m0207986" label="a herbarium specimen of _Phoenix dactylifera_" attribution="Botanische Staatssammlung München" license="Creative Commons Attribution 4.0 International License">
