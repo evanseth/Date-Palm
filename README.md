@@ -77,8 +77,8 @@ license= "Creative Commons Attribution 4.0 International License">
 
 ###Upholding Foundations
 Just as the Phoenix dactylifera’s agricultural and economic power materializes government documentation and architecture, early Mesopotamian religions also adopted the palm and its fruits into their pantheons as Gods of fertility and life, most notably goddesses Ishtar and Astarte. Cults of devotion associated the palm with the Tree of Life and incorporated it into their god figures, the leaves jutting out at the shoulders, and later conventionalized to feathers.[^ref11] This tree and its life-bearing properties sustained a presence in the region’s spirituality even as civilizations rose and fell and their religions evolved, adapting new meanings with each new belief system.
-<param ve-image url= "1-AssyrianPanelSacredTreeCone-Met.jpg"
-label="Assyrian Panel with a Sacred Tree Cone"
+<param ve-image url= "Assyrian-relief-panel-tall-fertilizing-met.jpg"
+label="Neo-Assyrian Panel with a Sacred Tree Cone, ca. 883–859 BCE"
 attribution= "Metropolitan Museum of Art, New York"
 license= "Creative Commons Attribution 4.0 International License">
 <param ve-image url= "2.2-AssyrianCylinderSealofIshtar-British.jpg"
